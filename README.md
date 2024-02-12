@@ -1,4 +1,5 @@
 # ProyectoAIOT
 
-### Ramón López García
-### Brayan Daniel Mendiola Gutiérrez 
+## Integrantes 
+- Ramón López García 
+- Brayan Daniel Mendiola Gutiérrez 
