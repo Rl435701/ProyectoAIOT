@@ -4,10 +4,11 @@
 - Ramón López García 
 - Brayan Daniel Mendiola Gutiérrez 
 
+## Proyecto
 - Captura de las pantallas del proyecto DASHBOARD y Pantalla de la ESP32
 - Video demostrativo de las funcionalidades del proyecto
 - Código fuente
-- 
+
 ## Lista del Hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
