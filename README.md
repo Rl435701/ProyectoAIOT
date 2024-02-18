@@ -24,15 +24,15 @@
 |  3  |     Thonny     |     4.2    |   1   |
 
 ## Visión del producto
-Producto el cual monitorie eel uso de una habitacion de un alumno de universidad mejorando su rendimiento mediante monitoreo de datos.
+Producto el cual monitorie el uso de una habitación de un alumno de universidad mejorando su rendimiento mediante monitoreo de datos.
 
 
     Quién es el público: ¿Quién va a utilizar tu producto?
-    Alumnos o Dueños de Casa de Reenta
+    Alumnos o Dueños de Casa de Renta
     Qué problema tiene: ¿Qué problema o necesidad latente se va a satisfacer?
     Dueño y alumno de casa de renta.
     Qué solución se ofrece: ¿Cómo se va a satisfacer?
-    el monitoreo dee uso de habitacion.
+    el monitoreo de uso de habitacion.
 
 ### -En proceeso.......
 ## Conexiones
